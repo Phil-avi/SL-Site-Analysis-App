@@ -1,0 +1,30 @@
+,Name,district,address,facility_type,latitude,longitude,Note
+0,Taihun Bongor Hospital,Bo,,HOSPITAL,8.051035,-11.799861,City north (15km) *
+1,Njala Kubuya Hospital,Bo,,,7.956097,-11.774338,City edge west *
+2,Mendekiawa Hospital,Bo,,HOSPITAL,7.970282,-11.770012,City edge west *
+3,Bawowahun Hospital,Bo,,HOSPITAL,7.989171,-11.73082,City edge north *
+4,Bo Number 2 hospital,Bo,"Fifth Street, Bo, Sierra Leone",HOSPITAL,7.978899,-11.725716,City edge north *
+5,Saint Mary Hospital,Bo,,HOSPITAL,7.941124,-11.72709,City edge south *
+6,Good Shepherd Hospital,Bo,,HOSPITAL,7.938002,-11.726186,City edge south *
+7,Towama Old Town Hospital,Bo,,HOSPITAL,7.956824,-11.721775,City edge east *
+8,Bo Gov. Hospital,Bo,"Hospital Rd, Bo, Sierra Leone",HOSPITAL,7.964185,-11.742772,City center
+9,Boima Hospital,Bo,"B-Line, Bo, Sierra Leone",HOSPITAL,7.977773,-11.737008,City center
+10,Gila'S Hospital,Bo,"Lion Road, Bo, Sierra Leone",HOSPITAL,7.970907,-11.743678,City center
+11,Kindoya Hospital,Bo,"Prince Williams St, Bo, Sierra Leone",HOSPITAL,7.959911,-11.738986,City center
+12,Mercy Hospital,Bo,Kukua Kulanda Town,HOSPITAL,7.9767,-11.737187,City center
+13,Dr Moinila Hospital,Bo,,HOSPITAL,7.957934,-11.756074,City center
+14,Egyptians Medical Hospital,Bo,,HOSPITAL,7.965858,-11.740368,City center
+15,Good Shepherd Hospital,Kenema,"Dauda Town, Kenema, Sierra Leone",HOSPITAL,7.847385,-11.204137,City edge south *
+16,Mail & Sierra Leone Friendship Hospital,Kenema,"13 C' Line Nyadeyama, Kenema, Sierra Leone",CLINIC,7.90062,-11.187473,City edge North *
+17,MSF Hangha Hospital,Kenema,,HOSPITAL,7.946161,-11.139967,City north (10km) *
+18,Jagita Private Hospital,Kenema,"Suppie Street, Sierra Leone",HOSPITAL,7.89601,-11.164833,City edge north *
+19,Kenema General Hospital,Kenema,,HOSPITAL,7.874879,-11.184533,City center
+20,Barnya Hospital,Kenema,,HOSPITAL,7.882963,-11.190137,City center
+21,Ralph Mini Hospital,Kenema,"NYANDEYAMA NEW SITE, KENEMA.                      ",HOSPITAL,7.884399,-11.191755,City center
+22,Government Hospital,Kenema,kenema,HOSPITAL,7.874572,-11.184389,City center
+23,Ahmadiyya Hospital ,Kenema,99 HANGHA ROAD KENEMA,HOSPITAL,7.888331,-11.18814,City center
+24,Dama Surgery,Kenema,,HOSPITAL,7.876317,-11.182847,City center
+25,Panguma Hospital,Kenema,"punguma, lower bambara                            ",HOSPITAL,7.875545,-11.191553,City center
+26,Sierra Leone Red Cross,Kenema,Maxwell kobe Street,CLINIC,7.863251,-11.195715,City center
+27,Mail Friendship Hospital,Kenema,"C Line, Nyadeyama, Kenema, Sierra Leone",HOSPITAL,7.868634,-11.199558,City center
+28,African Muslim Agency Clinic,Kenema,"Blama Rd, off Cafu Bridge, Kenema, Sierra Leone",CLINIC,7.862523,-11.202803,City center
