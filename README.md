@@ -1,8 +1,8 @@
 # SL Site Analysis App
 
-A geo mapping template developed for Dove Air. [App-Link](https://sl-site-analysis.herokuapp.com/) (It may take a minute or two for the page to load).
+This repo contains a [geo mapping app](https://sl-site-analysis.herokuapp.com/) developed for Dove Air.(It may take a minute or two for the page to load).
 
-This dashboard (alpha) presents the medical resources distribution and Dove Air's drone delivery service range in Sierra Leone. It is developed to serve our clients from Directorate of Science, Technology & Innovation (DSTI), Sierra Leone to make better informed decisions regarding operation site location selection, and flight routes control etc.
+This dashboard (alpha) presents the medical resources distribution and Dove Air's drone delivery service range in Sierra Leone. It is developed to serve our clients from Directorate of Science, Technology & Innovation (DSTI), Sierra Leone and to assist them in making better informed decisions regarding operation site location selection, and flight routes control etc.
 # Technical Details
 This dashboard utilized postgresql as the database management system, jupyter notebook for data gathering and cleaning, and interactive python packages such as ipyleaflet and ipywidgets to complete the dashboard design. 
 
