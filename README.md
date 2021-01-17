@@ -11,4 +11,5 @@ In order to handel a fairly large dataset(mostly due to several shape file folde
 * Data/Create_df.ipynb - A script used to populate PostgreSQL database
 * Data/*.csv - csv files gathered from various sources (shape files are not included due to storage constraints)
 
-
+# Preview
+![SL Site Analysis Dashboard](https://github.com/Phil-avi/SL-Site-Analysis-App/blob/main/SL-map.gif)
